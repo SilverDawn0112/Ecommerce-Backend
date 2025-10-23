@@ -45,3 +45,8 @@ module.exports.login = async (req, res) => {
   const state = user.new ? "Signed up" : "Logged in";
   return res.successResponse(`User ${state} Successfully.`, user);
 };
+
+/*
+Silver Dawn M. Desuasido
+This is my first Project
+*/
