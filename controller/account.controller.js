@@ -1,3 +1,10 @@
+/*
+Silver Dawn M. Desuasido
+This is my first Project using github
+*/
+
+
+
 const model = require("../model/account.model");
 const { createLoginToken } = require("../util/login");
 
@@ -48,5 +55,5 @@ module.exports.login = async (req, res) => {
 
 /*
 Silver Dawn M. Desuasido
-This is my first Project
+This is my first Project using my local computer
 */
